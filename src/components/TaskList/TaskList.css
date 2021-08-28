@@ -1,0 +1,29 @@
+.list-content {
+  min-height: 300px;
+}
+
+.list-content .list-group .title {
+  background: #000000;
+  border: 2px solid #dddddd;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.list-group {
+  list-style: none;
+}
+.jumbotron .btn {
+  padding: 9px 9px;
+  font-size: 12px;
+}
+
+.myInput {
+  color: #5bc0de;
+  text-align: center;
+  font-size: 20px;
+}
+.myInputUndone {
+  color: red;
+  text-align: center;
+  font-size: 20px;
+}
